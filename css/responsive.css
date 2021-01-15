@@ -16,6 +16,10 @@
   margin: 13px;
 }
 
+.card:last-child {
+  margin-right: 0px;
+}
+
 .card p {
   display: block;
   margin: 0 auto;
